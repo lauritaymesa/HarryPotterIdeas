@@ -1,0 +1,458 @@
+[30-May-2023 19:16:04 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[30-May-2023 19:17:27 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[30-May-2023 19:20:48 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[30-May-2023 19:20:55 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[30-May-2023 19:31:19 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[30-May-2023 20:20:28 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:20:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[30-May-2023 20:20:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[30-May-2023 20:22:29 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:24:30 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:26:31 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:29:12 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:30:13 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:32:14 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:34:15 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:36:16 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:38:17 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:47:56 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:48:57 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:50:58 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:52:59 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:55:00 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:56:19 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:56:19 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:57:01 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:57:35 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:57:36 UTC] PHP Parse error:  syntax error, unexpected variable "$ver", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 10
+[30-May-2023 20:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_file_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php:14
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(308): b2w_assets('')
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\script-loader.php(2194): do_action('wp_enqueue_scri...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts('')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\general-template.php(3049): do_action('wp_head')
+#8 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php(10): wp_head()
+#9 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lauri\\...')
+#10 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#11 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#12 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 14
+[30-May-2023 21:00:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_file_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php:14
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(308): b2w_assets('')
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\script-loader.php(2194): do_action('wp_enqueue_scri...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts('')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\general-template.php(3049): do_action('wp_head')
+#8 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php(10): wp_head()
+#9 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lauri\\...')
+#10 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#11 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#12 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 14
+[30-May-2023 21:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_file_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php:14
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(308): b2w_assets('')
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\script-loader.php(2194): do_action('wp_enqueue_scri...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts('')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\general-template.php(3049): do_action('wp_head')
+#8 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php(10): wp_head()
+#9 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lauri\\...')
+#10 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#11 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#12 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 14
+[30-May-2023 21:05:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_file_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php:14
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(308): b2w_assets('')
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\script-loader.php(2194): do_action('wp_enqueue_scri...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts('')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\general-template.php(3049): do_action('wp_head')
+#8 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php(10): wp_head()
+#9 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lauri\\...')
+#10 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#11 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#12 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 14
+[31-May-2023 20:32:18 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "fallback_cb", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\header.php on line 70
+[31-May-2023 20:33:00 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "fallback_cb", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\header.php on line 70
+[31-May-2023 21:05:18 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[31-May-2023 21:06:22 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[31-May-2023 21:15:18 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[31-May-2023 21:16:58 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[31-May-2023 21:26:04 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lauri\\...')
+#6 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:28:05 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lauri\\...')
+#6 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:28:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:28:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:20 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:21 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:22 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:22 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:24 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:25 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:30 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:31 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:37 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:37 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:30:38 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:31:39 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lauri\\...')
+#6 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:32:04 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\edit-comments.php(10): require_once('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:32:05 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:32:07 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:32:09 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lauri\\...')
+#6 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:32:09 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:32:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:32:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:33:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lauri\\...')
+#6 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:33:55 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:33:55 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:35:11 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lauri\\...')
+#6 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:36:11 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lauri\\...')
+#6 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:36:11 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-admin\index.php(10): require_once('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 21:36:11 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "b2w_theme_setup" not found or invalid function name in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-config.php(102): require_once('C:\\Users\\lauri\\...')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-load.php(50): require_once('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-hook.php on line 308
+[01-Jun-2023 17:28:04 UTC] PHP Parse error:  Unclosed '{' on line 45 in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\template-parts\banner-title.php on line 88
+[01-Jun-2023 17:28:05 UTC] PHP Parse error:  Unclosed '{' on line 45 in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\template-parts\banner-title.php on line 88
+[01-Jun-2023 17:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_sigle() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\template-parts\banner-title.php:31
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template.php(785): require()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template.php(718): load_template('C:\\Users\\lauri\\...', false, Array)
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php(3): get_template_part('template-parts/...', 'title')
+#4 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lauri\\...')
+#5 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#6 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#7 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\template-parts\banner-title.php on line 31
+[01-Jun-2023 18:39:50 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\template-parts\banner-title.php on line 102
+[01-Jun-2023 18:40:42 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\template-parts\banner-title.php on line 102
+[01-Jun-2023 20:07:04 UTC] PHP Parse error:  Unmatched ')' in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php on line 14
+[01-Jun-2023 20:07:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_templet_part() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php:18
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#3 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php on line 18
+[01-Jun-2023 20:56:39 UTC] PHP Parse error:  syntax error, unexpected token "else" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php on line 20
+[01-Jun-2023 20:57:34 UTC] PHP Parse error:  syntax error, unexpected token "else" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\index.php on line 20
+[01-Jun-2023 21:10:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 21:10:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 21:10:52 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 21:11:13 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 21:12:34 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 21:13:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 21:15:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 21:15:27 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[03-Jun-2023 12:04:29 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "next_text", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 78
+[03-Jun-2023 12:04:30 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "next_text", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 78
+[03-Jun-2023 12:05:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "next_text", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 78
+[03-Jun-2023 12:05:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[03-Jun-2023 12:05:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368

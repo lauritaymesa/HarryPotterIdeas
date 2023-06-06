@@ -456,3 +456,62 @@ Stack trace:
 [03-Jun-2023 12:05:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "next_text", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\functions.php on line 78
 [03-Jun-2023 12:05:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
 [03-Jun-2023 12:05:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[05-Jun-2023 16:22:28 UTC] PHP Parse error:  syntax error, unexpected token "array", expecting ")" in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\single.php on line 29
+[05-Jun-2023 21:20:18 UTC] PHP Parse error:  Unclosed '{' on line 22 in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\page.php on line 47
+[05-Jun-2023 22:41:03 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[05-Jun-2023 22:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function homey_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php:26
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#3 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php on line 26
+[05-Jun-2023 22:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function homey_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php:26
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#3 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php on line 26
+[05-Jun-2023 22:47:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function homey_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php:26
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#3 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php on line 26
+[05-Jun-2023 22:47:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function homey_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php:26
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#3 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php on line 26
+[05-Jun-2023 22:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function homey_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php:26
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#3 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php on line 26
+[05-Jun-2023 22:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function homey_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php:26
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#3 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php on line 26
+[05-Jun-2023 22:49:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function homey_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php:26
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#3 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php on line 26
+[05-Jun-2023 22:49:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function homey_uri() in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php:26
+Stack trace:
+#0 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lauri\\...')
+#2 C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\index.php(17): require('C:\\Users\\lauri\\...')
+#3 {main}
+  thrown in C:\Users\lauri\Local Sites\harry-potter-ideas\app\public\wp-content\themes\harrypotterideas\404.php on line 26

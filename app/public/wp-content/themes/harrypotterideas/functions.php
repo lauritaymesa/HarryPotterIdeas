@@ -87,8 +87,8 @@ function b2w_pagination() {
 
 
 
-
-
-
 ?>
+
+
+
 

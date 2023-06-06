@@ -141,9 +141,10 @@ cite span {
 
 .b2w_pagination {
     position: relative;
-    padding-top: 40px;
+    padding-top: 10px;
     text-align: center;
     font-size: 30px;
+    margin-bottom: 40px;
     
 }
 
@@ -880,7 +881,8 @@ input[type="text"] {
 /*contenido*/
 
 .content-area{
-    padding: 30px 0;
+    padding: 0px 0;
+    margin-bottom: 0px;
 
 }
 
@@ -938,6 +940,7 @@ article.post {
 .footer-calltoaction {
     padding: 30px 0;
     background: var(--color-box);
+    margin-bottom: 0px;
 
 }
 
@@ -1138,3 +1141,13 @@ article.post {
     color: #DCE2E2;
     
 } 
+
+/* image */
+
+.wp-post-image {
+    padding: 20px;
+}
+
+.image-404{
+    padding: 20px;
+}
